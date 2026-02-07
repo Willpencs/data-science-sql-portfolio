@@ -10,7 +10,7 @@ This repository features a collection of Exploratory Data Analysis (EDA) project
 
 ### 1. E-commerce Business Performance Analysis (In Progress 🏗️)
 - **Goal:** Extract KPIs such as Monthly Revenue and Top Selling Categories.
-- **Dataset:** Brazilian E-Commerce Public Dataset (Olist).
+- **Dataset:** Brazilian E-Commerce Public Dataset (Olist) hosted on **Google BigQuery**.
 - **Status:** Setting up environment and cleaning raw data.
 
 ---
