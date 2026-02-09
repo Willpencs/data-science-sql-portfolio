@@ -8,10 +8,21 @@ This repository features a collection of Exploratory Data Analysis (EDA) project
 
 ## 📂 Project List
 
-### 1. E-commerce Business Performance Analysis (In Progress 🏗️)
+### 1. E-commerce Business Performance Analysis (✅ Complete - Data Analysis & Visualization Pipeline Implemented)
 - **Goal:** Extract KPIs such as Monthly Revenue and Top Selling Categories.
 - **Dataset:** Brazilian E-Commerce Public Dataset (Olist) hosted on **Google BigQuery**.
 - **Status:** Setting up environment and cleaning raw data.
+
+# 📈 Análise de E-commerce - Olist
+
+Este estudo analisa o crescimento e as métricas de faturamento utilizando SQL e Python.
+
+## 📊 Visualização de Resultados
+![Crescimento do Faturamento Mensal](faturamento_mensal.png)
+
+### 💡 Insights Principais
+- **Escalabilidade:** Observa-se um crescimento robusto de faturamento ao longo de 2017.
+- **Métrica de Ticket Médio:** O valor médio por pedido manteve-se estável em aproximadamente R$ 160,00.
 
 ---
 ## ✉️ Contact
