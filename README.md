@@ -13,6 +13,12 @@ This repository features a collection of Exploratory Data Analysis (EDA) project
 - **Dataset:** Brazilian E-Commerce Public Dataset (Olist) hosted on **Google BigQuery**.
 - **Status:** Setting up environment and cleaning raw data.
 
+### 2. Segmentação de Clientes (K-Means)
+
+**Goal:** Agrupar clientes por comportamento RFM (Recência, Frequência e Valor).
+
+**Status:** ✅ Finalizado - Modelo treinado e visualizado
+
 # 📈 Análise de E-commerce - Olist
 
 Este estudo analisa o crescimento e as métricas de faturamento utilizando SQL e Python.
