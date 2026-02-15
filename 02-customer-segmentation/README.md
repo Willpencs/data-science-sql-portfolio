@@ -9,3 +9,8 @@ Este projeto aplica **Machine Learning (K-Means)** para agrupar +90k clientes da
 
 ## 📊 Visualização de Segmentos
 ![Clusters de Clientes](customer_clusters.png)
+
+### 📉 Justificativa do Modelo (Método do Cotovelo)
+Utilizei o **Elbow Method** para encontrar o número ideal de clusters. Como observado no gráfico abaixo, o ponto de equilíbrio ocorre em **4 grupos**.
+
+![Método do Cotovelo](elbow_method.png)
