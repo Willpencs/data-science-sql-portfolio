@@ -18,7 +18,7 @@ This repository features a collection of Exploratory Data Analysis (EDA) project
 Este estudo analisa o crescimento e as métricas de faturamento utilizando SQL e Python.
 
 ## 📊 Visualização de Resultados
-![Crescimento do Faturamento Mensal](faturamento_mensal.png)
+![Crescimento do Faturamento Mensal](01-ecommerce-analysis/faturamento_mensal.png)
 
 ### 💡 Insights Principais
 - **Escalabilidade:** Observa-se um crescimento robusto de faturamento ao longo de 2017.
