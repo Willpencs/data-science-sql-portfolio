@@ -17,6 +17,11 @@ This repository features a collection of Exploratory Data Analysis (EDA) project
 
 **Goal:** Agrupar clientes por comportamento RFM (Recência, Frequência e Valor).
 
+## 📊 Visualização de Resultados - Segmentação
+![Clusters de Clientes](./02-customer-segmentation/customer_clusters.png)
+
+> **Insight:** O modelo identificou 4 perfis distintos, permitindo ações de marketing direcionadas para clientes VIP e estratégias de recuperação para clientes em risco.
+
 **Status:** ✅ Finalizado - Modelo treinado e visualizado
 
 # 📈 Análise de E-commerce - Olist
