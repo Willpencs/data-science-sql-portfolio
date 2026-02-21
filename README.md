@@ -13,6 +13,8 @@ This repository features a collection of Exploratory Data Analysis (EDA) project
 - **Dataset:** Brazilian E-Commerce Public Dataset (Olist) hosted on **Google BigQuery**.
 - **Status:** Setting up environment and cleaning raw data.
 
+---
+
 ### 2. Segmentação de Clientes (K-Means)
 
 **Goal:** Agrupar clientes por comportamento RFM (Recência, Frequência e Valor).
@@ -23,6 +25,19 @@ This repository features a collection of Exploratory Data Analysis (EDA) project
 > **Insight:** O modelo identificou 4 perfis distintos, permitindo ações de marketing direcionadas para clientes VIP e estratégias de recuperação para clientes em risco.
 
 **Status:** ✅ Finalizado - Modelo treinado e visualizado
+
+---
+
+### 🏗️ 3. Pipeline ETL Financeiro (Engenharia de Dados)
+
+**Goal:** Automatizar a coleta, tratamento e armazenamento de dados de ativos financeiros.
+
+* **Destaque Técnico:** Desenvolvido em ambiente **WSL (Ubuntu)** para garantir portabilidade e integridade em sistemas Unix-like.
+* **Transformação:** Implementação de lógica de **imputação pela média** para tratamento de dados ausentes utilizando **Pandas**.
+* **Carga:** Persistência automatizada em banco de dados **SQLite** para auditoria e consultas rápidas.
+* **Status:** ✅ Concluído - Pipeline operacional e documentado.
+
+---
 
 # 📈 Análise de E-commerce - Olist
 
@@ -36,6 +51,7 @@ Este estudo analisa o crescimento e as métricas de faturamento utilizando SQL e
 - **Métrica de Ticket Médio:** O valor médio por pedido manteve-se estável em aproximadamente R$ 160,00.
 
 ---
+
 ## ✉️ Contact
 - **LinkedIn:** [https://www.linkedin.com/in/william-penco-0a38b828a/]
 - **Email:** [william.penco@hotmail.com]
